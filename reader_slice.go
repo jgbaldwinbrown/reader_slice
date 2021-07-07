@@ -1,4 +1,4 @@
-package rslice
+package reader_slice
 
 import (
 	"io"
